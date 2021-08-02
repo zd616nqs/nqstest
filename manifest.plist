@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.23.5.97/meisheipa/SDKDemo.ipa</string>
+					<string>https://github.com/zd616nqs/nqstest/releases/download/1.0/SDKDemo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://macross-jks.bilibili.co/ibili-ios/loktar/assets/icon512.png</string>
+					<string>https://github.com/zd616nqs/nqstest/blob/master/iconImage.png?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://macross-jks.bilibili.co/ibili-ios/loktar/assets/icon57.png</string>
+					<string>https://github.com/zd616nqs/nqstest/blob/master/iconImage.png?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -34,8 +34,10 @@
 				<string>2.22.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>meishesdk</string>
+				<string>SDKDemo</string>
 			</dict>
 		</dict>
 	</array>

@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/zd616nqs/nqstest/releases/download/1.0/SDKDemo.ipa</string>
+					<string>https://github.com/zd616nqs/nqstest/releases/download/1.1/SDKDemo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.bilibili.meishe.sdkdemo</string>
 				<key>bundle-version</key>
-				<string>2.22.0</string>
+				<string>2.23.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>

@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/zd616nqs/nqstest/releases/download/1.3/SDKDemo.ipa</string>
+					<string>https://github.com/zd616nqs/nqstest/releases/download/1.4/SDKDemo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,15 +29,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bilibili.meishe.sdkdemo</string>
+				<string>com.bilibili.bilianime</string>
 				<key>bundle-version</key>
-				<string>2.23.1</string>
+				<string>2.4.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>SDKDemo</string>
+				<string>bili-studio</string>
 			</dict>
 		</dict>
 	</array>

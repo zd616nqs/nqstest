@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/zd616nqs/nqstest/releases/download/1.4/SDKDemo.ipa</string>
+					<string>https://github.com/zd616nqs/nqstest/releases/download/1.5/default.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bilibili.bilianime</string>
+				<string>com.bilibili.studio.designuse</string>
 				<key>bundle-version</key>
-				<string>2.4.0</string>
+				<string>2.5.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>

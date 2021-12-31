@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.bilibili.app.in</string>
 				<key>bundle-version</key>
-				<string>2.5.0</string>
+				<string>2.5.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>

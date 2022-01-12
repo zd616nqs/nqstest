@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/zd616nqs/nqstest/releases/download/1.6/default.ipa</string>
+					<string>https://github.com/zd616nqs/nqstest/releases/download/1.7/default.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.bilibili.app.in</string>
 				<key>bundle-version</key>
-				<string>2.5.1</string>
+				<string>2.7.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
